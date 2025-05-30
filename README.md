@@ -84,8 +84,9 @@ jupyter notebook
 | Соотношение глаголов/существительных   | 0.87 ± 0.29    | 0.77 ± 0.26               | 0.028*   |
 
 <small>** p < 0.01, * p < 0.05 — уровень статистической значимости</small>
-📚 Библиография
-Основные публикации по теме, на которые мы ссылались в исследовании:
+
+## Библиография
+## Основные публикации по теме, на которые мы ссылались в исследовании:
 1. Ahmed, S., Arnold, R., Thompson, S. A., Graham, K. S., & Hodges, J. R. (2008). Naming of objects, faces and buildings in mild cognitive impairment. Cortex, 44(6), 746–752. https://doi.org/10.1016/j.cortex.2007.02.002
 
 2. Bilodeau‐Mercure, M., & Tremblay, P. (2016). Age Differences in Sequential Speech Production: Articulatory and Physiological Factors. Journal of the American Geriatrics Society, 64(11). https://doi.org/10.1111/jgs.14491
@@ -115,12 +116,15 @@ jupyter notebook
 
 
 
-📧 Контакты
+## 📧 Контакты
 По вопросам или сотрудничеству пишите на [shishcova.alina@gmail.com].
+
 Репозиторий: https://github.com/Alina1912/discourse_analysis_MCI
+
 ## Citation
 If you use this code or findings in your research, please cite the original work:
-Shishkova, A. (2025). Comparison of Discourse Parameters in Older People with and without Mild Cognitive Impairment. National Research University Higher School of Economics.
+<i>Shishkova, A. (2025). Comparison of Discourse Parameters in Older People with and without Mild Cognitive Impairment. National Research University Higher School of Economics.</i>
+
 При использовании кода или результатов исследования просьба ссылаться на оригинальную работу:
-Шишкова А. (2025). Сравнение характеристик дискурса у пожилых людей в норме и с синдромом легкого когнитивного снижения. Национальный исследовательский университет "Высшая школа экономики".
+<i>Шишкова А. (2025). Сравнение характеристик дискурса у пожилых людей в норме и с синдромом легкого когнитивного снижения. Национальный исследовательский университет "Высшая школа экономики".</i>
 
