@@ -107,7 +107,7 @@ jupyter notebook
 
 10. Szatloczki, G., Hoffmann, I., Vincze, V., Kalman, J., & Pakaski, M. (2015). Speaking in Alzheimer’s Disease, is That an Early Sign? Importance of Changes in Language Abilities in Alzheimer’s Disease. Frontiers in Aging Neuroscience, 7. https://doi.org/10.3389/fnagi.2015.00195
 
-11.Venneri et al. 2016 — A. Venneri, M. Mitolo, M. De Marco. Paradigm shift: semantic memory decline as a biomarker of preclinical Alzheimer’s disease // Biomarkers in Medicine. 2016. Vol. 10. No. 1. P. 5–8.
+11. Venneri et al. 2016 — A. Venneri, M. Mitolo, M. De Marco. Paradigm shift: semantic memory decline as a biomarker of preclinical Alzheimer’s disease // Biomarkers in Medicine. 2016. Vol. 10. No. 1. P. 5–8.
 
 12. Vincze, V., Gosztolya, G., Tóth, L., Hoffmann, I., Szatlóczki, G., Bánréti, Z., Pákáski, M., & Kálmán, J. (2016). Detecting Mild Cognitive Impairment by Exploiting Linguistic Information from Transcripts. Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), 181–187. https://doi.org/10.18653/v1/P16-2030
 
