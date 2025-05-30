@@ -91,7 +91,7 @@ jupyter notebook
 
 2. Bilodeau‐Mercure, M., & Tremblay, P. (2016). Age Differences in Sequential Speech Production: Articulatory and Physiological Factors. Journal of the American Geriatrics Society, 64(11). https://doi.org/10.1111/jgs.14491
 
-3.Boschi, V., Catricalà, E., Consonni, M., Chesi, C., Moro, A., & Cappa, S. F. (2017). Connected Speech in Neurodegenerative Language Disorders: A Review. Frontiers in Psychology, 8. https://doi.org/10.3389/fpsyg.2017.00269
+3. Boschi, V., Catricalà, E., Consonni, M., Chesi, C., Moro, A., & Cappa, S. F. (2017). Connected Speech in Neurodegenerative Language Disorders: A Review. Frontiers in Psychology, 8. https://doi.org/10.3389/fpsyg.2017.00269
 
 4. Gosztolya, G., Vincze, V., Tóth, L., Pákáski, M., Kálmán, J., & Hoffmann, I. (2019). Identifying Mild Cognitive Impairment and mild Alzheimer’s disease based on spontaneous speech using ASR and linguistic features. Computer Speech & Language, 53, 181–197. https://doi.org/10.1016/j.csl.2018.07.007
 
@@ -99,7 +99,7 @@ jupyter notebook
 
 6. López-de-Ipiña, K., Alonso, J. B., Solé-Casals, J., Barroso, N., Henriquez, P., Faundez-Zanuy, M., Travieso, C. M., Ecay-Torres, M., Martínez-Lage, P., & Eguiraun, H. (2015). On Automatic Diagnosis of Alzheimer’s Disease Based on Spontaneous Speech Analysis and Emotional Temperature. Cognitive Computation, 7(1), 44–55. https://doi.org/10.1007/s12559-013-9229-9
 
-7. Lyashevskaya, O. N., & Sharov, S. A. (2009). Chastotny`j slovar` sovremennogo russkogo yazyka na materialax Nacional`nogo korpusa russkogo yazyka. Izdatel`skij centr "Azbukovnik".
+7. Лукашевич и др. 2016 — Н. В. Лукашевич, Я. Б. Фёдорова, Н. Л. Русначенко и др. Создание лексикона оценочных слов русского языка РуСентилекс // Открытые семантические технологии проектирования интеллектуальных систем. 2016. № 6. С. 377–382.
 
 8. Petersen, R. C., Smith, G. E., Waring, S. C., Ivnik, R. J., Tangalos, E. G., & Kokmen, E. (1999). Mild Cognitive Impairment: Clinical Characterization and Outcome. Archives of Neurology, 56(3), 303. https://doi.org/10.1001/archneur.56.3.303
 
@@ -113,7 +113,7 @@ jupyter notebook
 
 13. Vincze, V., Szabó, M. K., Hoffmann, I., Tóth, L., Pákáski, M., Kálmán, J., & Gosztolya, G. (2022). Linguistic Parameters of Spontaneous Speech for Identifying Mild Cognitive Impairment and Alzheimer Disease. Computational Linguistics, 48(1), 119–153. https://doi.org/10.1162/coli_a_00428
 
-
+14. Ляшевская, Шаров 2012 — О. Н. Ляшевская, С. А. Шаров. Новый частотный словарь русской лексики (электронный документ). URL: http://dict.ruslang.ru/freq.php (дата обращения: 20.04.2025).
 
 
 ## 📧 Контакты
